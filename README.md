@@ -1,4 +1,4 @@
-# debloater
+# terminal_debloater
 Debloat your device using your terminal (requires su permissions)
 Adapted to work with KernelSU, Magisk and APatch using OverlayFS. You can use something like Termux to run it 
 
